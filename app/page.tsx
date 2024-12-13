@@ -1,4 +1,4 @@
-import LoveForm from '@/components/love-form'  // 使用 @ 别名
+import LoveForm from '../components/love-form'
 
 export default function Home() {
   return (

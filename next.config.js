@@ -7,6 +7,7 @@ const nextConfig = {
   basePath: '/love-love',
   assetPrefix: '/love-love/',
   trailingSlash: true,
+  distDir: 'dist',
 };
 
 module.exports = nextConfig;
